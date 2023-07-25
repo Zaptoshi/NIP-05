@@ -3,6 +3,6 @@
     "zaptoshi": "a506b83a14d44afafd8bcf6812d84b7910d7ccaed4c8c797c45e71048b6d2840"
   },
   "relays": {
-    "a506b83a14d44afafd8bcf6812d84b7910d7ccaed4c8c797c45e71048b6d2840": [ "wss://relay.zaptoshi.com", "wss://relay.damus.io" ]
+    "a506b83a14d44afafd8bcf6812d84b7910d7ccaed4c8c797c45e71048b6d2840": [ "wss://relay.zaptoshi.com", "wss://relay.primal.net", "wss://relay.damus.io", "wss://relay.nostr.band", "wss://nos.lol", "wss://relayable.org" ]
   }
 }
