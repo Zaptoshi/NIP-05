@@ -1,5 +1,17 @@
 {
   "names": {
-    "name": "hex pub key - https://damus.io/key/"
+    "zaptoshi": "a506b83a14d44afafd8bcf6812d84b7910d7ccaed4c8c797c45e71048b6d2840"
+  },
+  "relays": {
+    "a506b83a14d44afafd8bcf6812d84b7910d7ccaed4c8c797c45e71048b6d2840": [
+      "wss://pvt.zaptoshi.com",
+      "wss://relay.zaptoshi.com",
+      "wss://relayable.org",
+      "wss://relay.damus.io",
+      "wss://relay.snort.social",
+      "wss://relay.nostr.band",
+      "wss://nos.lol",
+      "wss://relay.current.fyi",
+    ]
   }
 }
